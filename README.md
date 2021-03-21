@@ -1,7 +1,7 @@
 # web-development-sparks
 
 This is the project given by sparks foundation
-<h2>The project name is <strong>Payment gateway integration</strong></h2>
+<h2><strong>Payment gateway integration</strong></h2>
 
 ## 1. Homepage
 ![Homepage](screenshots/1.png)
