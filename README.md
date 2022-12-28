@@ -1,7 +1,7 @@
 # web-development-sparks
 
 This project was developed under the internship program conducted by the Sparks Foundation
-Website [link](https://girija0707.github.io/web-development-sparks/)
+## Website [link](https://girija0707.github.io/web-development-sparks/)
 <h2><strong>Payment gateway integration</strong></h2>
 
 ## 1. Homepage
